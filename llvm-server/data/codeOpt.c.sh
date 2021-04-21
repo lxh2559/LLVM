@@ -1,0 +1,1 @@
+clang -O3 -S -fobjc-arc -emit-llvm llvm.c -o data/llvm3.ll
